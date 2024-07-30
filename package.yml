@@ -1,0 +1,6 @@
+version: 1
+packages:
+ - name: hub-10tb
+   url: https://github.com/stephenberg2/hub-10tb
+   branch: production
+   version: latest
