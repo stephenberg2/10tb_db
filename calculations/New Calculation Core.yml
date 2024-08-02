@@ -1,0 +1,5 @@
+unique_name: New Calculation Core
+object_type: metric_calc
+label: New Calculation Core
+expression: 1+1
+is_hidden: false

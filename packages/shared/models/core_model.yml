@@ -1,6 +1,6 @@
-unique_name: TPCDS-10TB
+unique_name: core_model
 object_type: model
-label: TPCDS-10TB
+label: core_model
 metrics:
   - unique_name: avg store list price
     folder: store sales metrics
@@ -50,6 +50,7 @@ metrics:
     folder: web sales metrics
   - unique_name: store sales price
     folder: store sales metrics
+  - unique_name: New Calculation Core
 relationships:
   - unique_name: web_sales_ws_ship_customer_sk_to_customer dimension_customer number
     from:
