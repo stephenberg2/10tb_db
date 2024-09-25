@@ -70,7 +70,8 @@ metrics:
     folder: total sales metrics
   - unique_name: total quantity sold
     folder: total sales metrics
-  - unique_name: New Calculation Core
+  - unique_name: spoke calculation
+    folder: spoke calcs
 relationships:
   - unique_name: web_sales_ws_ship_customer_sk_to_customer dimension_customer number
     from:
