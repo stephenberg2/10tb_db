@@ -1,5 +1,0 @@
-unique_name: spoke calculation
-object_type: metric_calc
-label: spoke calculation
-expression: 2+2
-is_hidden: false
