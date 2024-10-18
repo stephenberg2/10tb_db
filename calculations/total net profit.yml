@@ -1,0 +1,6 @@
+unique_name: total net profit
+object_type: metric_calc
+label: total net profit
+description: sum of store and web net profit
+expression: '[Measures].[store net profit] + [Measures].[web net profit]'
+is_hidden: false
